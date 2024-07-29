@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Sample Snack app
 
 Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
@@ -14,3 +15,7 @@ Snack is Open Source. You can find the code on the [GitHub repo](https://github.
 # school_app_react_native
 Este projeto é uma recriação de interface de um site escolar em aplicativo móvel utilizando React Native.
 >>>>>>> 304d85a1370d551f9a80c04d3ce9251a8b6b3f92
+=======
+# school_app_react_native
+Este projeto é uma recriação de interface de um site escolar em aplicativo móvel utilizando React Native.
+>>>>>>> c6682e62e99822b0ec8cc908354fb65ecd56af7a
